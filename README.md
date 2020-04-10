@@ -6,6 +6,9 @@
 	- Listening TPON - M.docx, record listening context analysis and words. 
 	- TPO_LISTENING.xlsx, record schedule.
 3. Words
-	- WORDS.xlsx, for unknown TPO words not only in listening and reading.
+	- WORDS.xlsx, TPO Words in both listening and reading.
+		- Organize and Summarize TPO Words according to Class, which includes 
+		Geography, Geology, Animal, Law ... and so on.
+		- Colored Background with Green and Yellow of Unknown or Unfamiliar Words.	
 
 
