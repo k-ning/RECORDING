@@ -5,7 +5,7 @@
 2. Listening
 	- Listening TPON - M.docx, record listening context analysis and words. 
 	- TPO_LISTENING.xlsx, record schedule.
-	- Listening Official xx Set xx, orginal context of listeing.
+	- Listening Official xx - Set xx, orginal context of listeing.
 3. Words
 	- WORDS.xlsx, TPO Words in both listening and reading.
 		- Organize and Summarize TPO Words according to Class, which includes 
